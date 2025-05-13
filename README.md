@@ -3,6 +3,10 @@
 ## 📌 Introduction  
 This is an advanced chess game with fantasy elements. It features teleport squares, pawn replication, and an AI opponent using the Minimax algorithm with alpha-beta pruning. The game is built using Python, with `pygame` for graphics and `chess` for board logic.
 
+## 🎮 Project Demo  
+[Watch Project Demo](https://drive.google.com/file/d/1CVGDCJY9Gkgk-nJ1xycawB2CaRYKI1R1/view)  
+
+
 ## 🚀 Features  
 - Player vs Player (PvP) Mode  
 - Player vs AI Mode (Minimax AI with alpha-beta pruning)  
