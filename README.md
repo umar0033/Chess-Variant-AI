@@ -19,14 +19,6 @@ This is an advanced chess game with fantasy elements. It features teleport squar
   - pygame: For graphical interface and user interaction  
   - chess: For handling chess rules, board state, and moves  
 
-## 📂 File Structure  
-Chess Variant AI Project
-├── main.py # Main game code
-├── win.mp3 # Background music (optional)
-├── white_pawn.png # Piece images (required)
-├── black_pawn.png
-├── ... # Other piece images (king, queen, etc.)
-└── README.md # This README file
 
 ## 🚦 How to Run  
 python main.py  
